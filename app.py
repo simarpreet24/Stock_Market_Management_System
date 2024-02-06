@@ -26,25 +26,6 @@ The code is organized into functions that handle various tasks, such as connecti
 credentials, adding money to the wallet, buying and selling shares, and updating the user's portfolio.
 The GUI is built using the 'customtkinter' library, allowing for user-friendly interaction.\n\n""")
 
-print("""
-Author: Prem Gaikwad
-Roll No.: 32355
-Date: 15 Oct 2023
-Subject: DBMS
-Database: MySQL
-""")
-
-print("""
-   _____           _                    _____ _             _           _ 
-  / ____|         | |                  / ____| |           | |         | |
- | (___  _   _ ___| |_ ___ _ __ ___   | (___ | |_ __ _ _ __| |_ ___  __| |
-  \___ \| | | / __| __/ _ \ '_ ` _ \   \___ \| __/ _` | '__| __/ _ \/ _` |
-  ____) | |_| \__ \ ||  __/ | | | | |  ____) | || (_| | |  | ||  __/ (_| |
- |_____/ \__, |___/\__\___|_| |_| |_| |_____/ \__\__,_|_|   \__\___|\__,_|
-          __/ |                                                           
-         |___/                                                            
-""")
-
 app = CTk()
 app.geometry("500x400")
 set_appearance_mode("dark")
