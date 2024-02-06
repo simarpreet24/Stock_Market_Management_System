@@ -2,15 +2,8 @@
 
 Stock Market Management System is a Python application that allows users to manage their stock portfolios, buy and sell shares of different companies, and track their wallet balances. This project is built using the CustomTkinter library for the graphical user interface and interacts with a MySQL database for user registration and data storage.
 
-## About Me
-> **Name:** Prem Ganesh Gaikwad
->> **Affiliated with:** SCTR's Pune Institute of Computer Technology 
->>> **Educational Background:** Bachelor of Engineering (E&TE)
->>>> **Honors:** Artificial Intelligence and Machine Learning 
 
 ## Table of Contents
-
-> [About Me](#about-me)
 
 > [Features](#features)
 
@@ -26,9 +19,6 @@ Stock Market Management System is a Python application that allows users to mana
 
 > [Process Flow Diagram](#process-flow-diagram)
 
-> [Future Scope](#future-scope)
-
-> [License](#license)
 
 ## Features
 
@@ -127,35 +117,3 @@ To set up the database, follow these steps:
 ### Order Workflow
 ![Order flow](./images/orderflow.png)
 
-## Future Scope
-
-The `StockUp` project provides a foundation for a stock trading and portfolio
-management application. While the current version fulfills the initial requirements, there
-is significant potential for further development and enhancements. Here are some future
-scope possibilities for the project:
->1. **Enhanced User Profiles**:
- - Implement more comprehensive user profiles, including personal information,
-investment preferences, and risk tolerance.
- - Provide options for users to link their real brokerage accounts for live trading.
->2. **Real-Time Data Integration**:
- - Integrate with real-time stock market data providers to offer users actual market data.
- - Implement features like live stock quotes, real-time charts, and news feeds.
->3. **Advanced Trading Features**:
- - Add advanced trading options, such as limit orders, stop-loss orders, and trailing stop
-orders.
- - Implement technical analysis tools for users to make informed trading decisions.
->4. **Security Enhancements**:
- - Enhance security measures to protect user data and financial information.
- - Implement two-factor authentication and encryption for sensitive data.
->5. **Educational Resources**:
- - Create a section for educational resources, including articles, tutorials, and webinars
-on stock trading and investment strategies.
->6. **Gamification and Rewards**:
- - Implement gamification elements to make the app more engaging.
- - Reward users for reaching trading milestones or achieving certain goals.
-
-## License
-
-[MIT License](LICENSE)
-
-`© Prem Gaikwad 2023`
